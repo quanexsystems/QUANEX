@@ -1,4 +1,4 @@
-![github](https://github.com/user-attachments/assets/bb9d8c02-3cac-4585-b937-891415ddfd02)
+![github](https://github.com/user-attachments/assets/13b4faf7-fc73-470e-a81a-b911ddcb6abe)
 
 [![Follow on X.com](https://img.shields.io/badge/X.com-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/quanexsystems)
 
