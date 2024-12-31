@@ -225,6 +225,6 @@ We welcome contributions from the community! Whether it's new features, bug fixe
 
 Connect with fellow bioengineers and enthusiasts in the **Quanex** community:
 
-- [Twitter](https://x.com/quanexsystems))
+- [Twitter](https://x.com/quanexsystems)
 
 
